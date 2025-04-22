@@ -1,6 +1,4 @@
 
-
-```markdown
 #  My Portfolio Website
 
 Welcome to my personal portfolio website! This is a responsive and modern site built using **React**, **Tailwind CSS**, and **Vite**, showcasing my skills, projects, experiences, and contact information.
